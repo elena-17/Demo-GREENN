@@ -1,0 +1,8 @@
+{
+    "name": "MNIST",
+    "num_classes": 10,
+    "metadata":{
+        "num_samples": 70000,
+        "input_size": [1, 28, 28]
+    }
+}

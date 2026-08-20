@@ -1,0 +1,76 @@
+{
+    "project": {
+        "name": "82_hey",
+        "description": "undefined"
+    },
+    "testCase": {
+        "name": "32_eet8",
+        "metrics": [
+            "layer"
+        ],
+        "output": {
+            "file_name": null,
+            "methods": [
+                "json"
+            ]
+        }
+    },
+    "model": {
+        "seed": 42,
+        "loss": "SoftmaxCrossEntropy",
+        "layers": [
+            {
+                "type": "convolutional",
+                "neurons": 32,
+                "kernel_size": 3,
+                "dropout": 0.25,
+                "weight_init": "glorot",
+                "flatten": false,
+                "activation": "relu"
+            },
+            {
+                "type": "convolutional",
+                "neurons": 64,
+                "kernel_size": 3,
+                "dropout": 0.25,
+                "weight_init": "glorot",
+                "flatten": true,
+                "activation": "relu"
+            },
+            {
+                "type": "dense",
+                "neurons": 128,
+                "activation": "relu",
+                "dropout": 0.5,
+                "weight_init": "standard"
+            },
+            {
+                "type": "dense",
+                "neurons": 10,
+                "activation": "sigmoid",
+                "dropout": 0.0,
+                "weight_init": "glorot"
+            }
+        ],
+        "metrics": [
+            "accuracy",
+            "f1"
+        ]
+    },
+    "trainer": {
+        "epochs": 10,
+        "batch_size": 64,
+        "early_stopping": false,
+        "warm_start": false,
+        "validation_fraction": 0.1,
+        "n_epochs_no_improve": null,
+        "tol": 0.0001,
+        "optimizer": "SGD",
+        "learning_rate": 0.01,
+        "evaluate_metrics": true
+    },
+    "measurer": {
+        "type": "codecarbon",
+        "measure_interval": 5
+    }
+}

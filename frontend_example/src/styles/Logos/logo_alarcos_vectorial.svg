@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: http://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="500pt"
+    height="100%"
+    viewBox="90 70 195 130">
+<defs/>
+<text id="shape010" krita:useRichText="true" transform="matrix(-1.71335930940493 0.000199779717167002 0.000195193526783574 1.75362274576216 286.122985695489 169.651198930308)" fill="#174044" font-family="Bahnschrift Light" font-size="50" font-size-adjust="0.210526" font-stretch="normal" font-weight="200" kerning="0" letter-spacing="0" word-spacing="0"><tspan x="0">{</tspan></text><text id="shape0111" krita:useRichText="true" transform="matrix(1.71328029764314 0.0168421830993459 -0.0164554834149561 1.75354187723961 86.9768348964213 169.449347073874)" fill="#174044" font-family="Bahnschrift Light" font-size="50" font-size-adjust="0.210526" font-stretch="normal" font-weight="200" kerning="0" letter-spacing="0" word-spacing="0"><tspan x="0">{</tspan></text><g id="group0" transform="translate(123.227392897972, 74.5095205612182)" fill="none">
+  <ellipse id="shape01" transform="matrix(0.966202739787576 0 0 0.88001567603671 1.4210854715202e-14 -2.8421709430404e-14)" rx="65.76" ry="68.4" cx="65.76" cy="68.4" fill="none" stroke="#007f17" stroke-width="4.8" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape3" transform="matrix(0.86106221596436 0 0 0.860099137762868 13.3454791447299 36.194351368708)" fill="none" stroke="#007f17" stroke-width="4.8" stroke-linecap="square" stroke-linejoin="bevel" d="M0 69.344C49.2467 73.3507 114.436 52.36 124.676 0"/>
+  <path id="shape1" transform="matrix(0.86106221596436 0 0 0.860099137762868 23.185478431562 5.56418550241698)" fill="none" stroke="#007f17" stroke-width="4.8" stroke-linecap="square" stroke-linejoin="bevel" d="M74.3121 0C78.2027 70.9763 21.9857 107.456 0 115.978"/>
+  <path id="shape2" transform="matrix(0.86106221596436 0 0 0.860099137762868 36.28094907565 6.52093519080869)" fill="none" stroke="#007f17" stroke-width="4.8" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0C18.4913 4.26179 42.7454 17.207 57.7287 37.4257C74.4483 59.9875 80.5238 73.7103 82.8 111.84"/>
+  <path id="shape4" transform="matrix(0.86106221596436 0 0 0.860099137762868 2.64785652068099 13.857011548439)" fill="none" stroke="#007f17" stroke-width="4.8" stroke-linecap="square" stroke-linejoin="bevel" d="M0 38.2107C17.82 23.3307 23.7233 17.8733 36 12.1107C50.8916 5.12055 75.06 -2.46935 97.38 0.770657C112.102 2.90769 121.988 5.84946 127.037 9.59595"/>
+ </g><g id="group01" transform="translate(113.391499442218, 117.359999803369)" fill="none">
+  <path id="shape0" transform="matrix(1.23014770442241 0.481746373219019 -0.441622666713098 1.12769112520341 57.5666698634816 42.9218725313441)" fill="#174044" stroke="#174044" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 6.41724e-14L0 23.6624"/>
+  <path id="shape011" transform="matrix(-0.265474590378551 1.29416626117959 -1.18637766191083 -0.243363719005215 63.0685007048496 34.7400076754951)" fill="#174044" fill-rule="evenodd" stroke="#174044" stroke-width="1.08" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0.0622221C1.64823 1.72578 3.99843 2.75494 6.37502 2.73043L5.71571 2.59681C5.12018 0.268459 1.30727 -0.191384 0 0.0622221Z"/>
+  <path id="shape04" transform="matrix(1.2021278917549 0.547934032164697 -0.502297609657964 1.10200485410875 17.8885002026772 2.7351546805221e-08)" fill="#174044" fill-rule="evenodd" stroke="#174044" stroke-width="1.08" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0.0277497C3.12178 36.0283 23.1991 30.7151 42.1903 35.6133L39.6122 34.2925C30.8894 10.669 9.80582 -0.637906 0 0.0277497Z"/>
+  <path id="shape05" transform="matrix(-1.31016649277503 -0.169726451402382 -0.155590237430666 1.20104509910166 105.432533099382 46.6653208610036)" fill="#174044" fill-rule="evenodd" stroke="#174044" stroke-width="1.08" stroke-linecap="square" stroke-linejoin="bevel" d="M0 1.31518C10.2679 26.9629 26.6082 22.4323 40.459 22.6288L37.3584 21.1862C29.8041 6.09599 11.4744 -3.67551 0 1.31518Z"/>
+  <path id="shape08" transform="matrix(1.06002446859297 0.777718552378423 -0.760616175144674 0.951328624526684 51.3684951385318 11.8199959647284)" fill="#174044" fill-rule="evenodd" stroke="#174044" stroke-width="1.08" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0.0138563C1.3279 17.9899 10.715 15.5793 18.7932 18.0252L16.8497 17.1232C13.1393 5.32733 4.17106 -0.318526 0 0.0138563Z"/>
+  <path id="shape051" transform="matrix(-1.32081520601676 0.0281141588324796 0.0257725884961492 1.21080690751358 87.5195886898964 30.9260092053805)" fill="#174044" fill-rule="evenodd" stroke="#174044" stroke-width="1.08" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0.801827C6.05475 16.4385 15.6903 13.6763 23.8578 13.7961L22.0294 12.9166C17.5748 3.71655 6.7662 -2.24085 0 0.801827Z"/>
+ </g>
+</svg>

@@ -1,0 +1,68 @@
+[
+    {
+        "id": 85,
+        "projectName": "Lab Test",
+        "userEmail": "gteam@uclm.es",
+        "description": "",
+        "filePath": "reports\\85_nads",
+        "createdAt": "2025-07-07T07:31:57.000Z",
+        "TestCases": [
+            {
+                "id": 39,
+                "name": "mnist",
+                "description": "Lab Test",
+                "datasetId": 31,
+                "projectId": 85,
+                "status": "success",
+                "filePath": "39_mnist",
+                "metrics": [
+                    "layer"
+                ],
+                "executedAt": "2025-09-29T09:05:49.000Z",
+                "createdAt": "2025-09-03T08:28:02.000Z",
+                "parameters": {
+                    "model": {
+                        "loss": "MeanSquaredError",
+                        "seed": 42,
+                        "metrics": [],
+                        "layers": [
+                            {
+                                "type": "convolutional",
+                                "neurons": 32,
+                                "kernel_size": 3,
+                                "dropout": 0.0,
+                                "weight_init": "glorot",
+                                "flatten": false,
+                                "activation": "relu"
+                            },
+                            {
+                                "type": "dense",
+                                "neurons": 10,
+                                "dropout": 0.0,
+                                "weight_init": "xavier",
+                                "flatten": false,
+                                "activation": "softmax"
+                            }
+                        ]
+                    },
+                    "trainer": {
+                        "optimizer": "SGD",
+                        "learning_rate": 0.01,
+                        "epochs": 10,
+                        "batch_size": 32,
+                        "tol": 0.0001,
+                        "validation_fraction": 0.1,
+                        "early_stopping": false,
+                        "n_epochs_not_improving": 5,
+                        "warm_start": false,
+                        "evaluate_metrics": true
+                    },
+                    "measurer": {
+                        "type": "codecarbon",
+                        "measure_interval": 5
+                    }
+                }
+            }
+        ]
+    }
+]
